@@ -33,7 +33,7 @@ body {
   }
 }
 
-#loginText{
+#registerText{
   color: #f9f9f9;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 .login-card > h3 {
-  color: rgb(254, 254, 254);
+  color: rgb(255, 255, 255);
   margin: 0 0 30px;
   font-weight: 500;
   font-size: 1rem;
